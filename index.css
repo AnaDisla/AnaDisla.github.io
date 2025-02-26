@@ -21,7 +21,7 @@ body {
 }
 
 section.welcome {
-    background-image: url("img/fondo1 (1).png");
+    background-image: url("fondo1 (1).png");
     background-repeat: no-repeat;
     background-size: cover;  /* Ajusta la imagen para cubrir todo el contenedor */
     background-position: center; /* Centra la imagen */
