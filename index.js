@@ -175,7 +175,7 @@ function showModal(message) {
 }
 
 function resetGame() {
-    
+    closeEndModal();
     clearInterval(timer);
     clearInterval(intervalShuffle);
     flips = 0;
