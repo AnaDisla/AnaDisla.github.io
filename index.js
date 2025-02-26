@@ -1,12 +1,12 @@
 const heroes = [
-    'img/1.png', 'img/1.png', 
-    'img/2.png', 'img/2.png', 
-    'img/3.png', 'img/3.png', 
-    'img/4.png', 'img/4.png', 
-    'img/5.png', 'img/5.png', 
-    'img/6.png', 'img/6.png', 
-    'img/7.png', 'img/7.png', 
-    'img/8.png', 'img/8.png'
+    '1.png', '1.png', 
+    '2.png', '2.png', 
+    '3.png', '3.png', 
+    '4.png', '4.png', 
+    '5.png', '5.png', 
+    '6.png', '6.png', 
+    '7.png', '7.png', 
+    '8.png', '8.png'
 ];
 let shuffledHeroes;
 let firstCard, secondCard;
